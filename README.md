@@ -78,7 +78,7 @@ Demonstrates:
 
 ---
 
-###  Q6 – Library Class (OOP) (`Q_6.py`)
+###  Q6 – Library Class (`Q_6.py`)
 
 Demonstrates:
 
