@@ -1,24 +1,29 @@
 import shapes
 
-print("1. Circle")
-print("2. Rectangle")
-print("3. Triangle")
+print("1=circle")
+print("2=rectangle")
+print("3=triangle")
 
-choice = int(input("Enter your choice: "))
+choice = int(input("Enter the shape number: "))
 
 if choice == 1:
-    r = float(input("Enter radius: "))
-    print("Area of Circle:", shapes.area_circle(r))
+    radius = float(input("Enter the radius of the circle: "))
+    area = shapes.circle_area(
+    radius)
+    print(f"The area of the circle is: {area:.2f}")
 
 elif choice == 2:
-    l = float(input("Enter length: "))
-    w = float(input("Enter width: "))
-    print("Area of Rectangle:", shapes.area_rectangle(l, w))
+    length = float(input("Enter the length of the rectangle: "))
+    width = float(input("Enter the width of the rectangle: "))
+    area = shapes.rectangle_area(length, width)
+    print(f"The area of the rectangle is: {area:.2f}")
 
 elif choice == 3:
-    b = float(input("Enter base: "))
-    h = float(input("Enter height: "))
-    print("Area of Triangle:", shapes.area_triangle(b, h))
+    base = float(input("Enter the base of the triangle: "))
+    height = float(input("Enter the height of the triangle: "))
+    area = shapes.triangle_area(base, height)
+    print(f"The area of the triangle is: {area:.2f}")
 
 else:
-    print("Invalid choice")
+    print("Invalid choice. Please enter 1, 2, or 3.")
+
