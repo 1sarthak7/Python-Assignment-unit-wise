@@ -1,3 +1,4 @@
+<div align="center">
 # Python Assignment Unit Wise
 
 [![Contributors](https://img.shields.io/github/contributors/1sarthak7/Python-Assignment-unit-wise.svg?style=for-the-badge)](https://github.com/1sarthak7/Python-Assignment-unit-wise/graphs/contributors)
@@ -29,6 +30,7 @@ To run the scripts in this repository, you will need the following installed on 
 * Python 3.x
 * A code editor or IDE (such as VS Code, PyCharm, or Jupyter Notebook)
 * Git (for version control)
+</div>
 
 ## Getting Started
 
@@ -38,4 +40,15 @@ Follow these steps to set up the project locally:
    ```bash
    git clone [https://github.com/1sarthak7/Python-Assignment-unit-wise.git](https://github.com/1sarthak7/Python-Assignment-unit-wise.git)
      ```
+   
+<div align="center">
+
+Built with precision by [Sarthak Bhopale](https://github.com/1sarthak7).
+
+<br/>
+
+<sub>This is a portfolio/demonstration project and is not affiliated with or endorsed by Victor Hasselblad AB.</sub>
+<br/>
+
+</div>
 
