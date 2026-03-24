@@ -18,7 +18,6 @@ A structured collection of Python assignments categorized systematically by unit
 <a href="#getting-started"><img src="https://img.shields.io/badge/View-Getting_Started-blue?style=for-the-badge" alt="Getting Started"></a>
 <a href="#author"><img src="https://img.shields.io/badge/View-Author-blue?style=for-the-badge" alt="Author"></a>
 
----
 
 ## Overview
 
