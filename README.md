@@ -51,8 +51,4 @@ Built with precision by [Sarthak Bhopale](https://github.com/1sarthak7).
 
 <br/>
 
-<sub>This is a portfolio/demonstration project and is not affiliated with or endorsed by Victor Hasselblad AB.</sub>
-<br/>
-
-</div>
 
