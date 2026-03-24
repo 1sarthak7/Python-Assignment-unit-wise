@@ -24,6 +24,7 @@ A structured collection of Python assignments categorized systematically by unit
 This project divides Python learning materials and assignment solutions into distinct units. Each unit folder contains the relevant source code, inputs, and outputs associated with that specific curriculum module. 
 
 </div>
+
 ---
 
 ## Prerequisites
